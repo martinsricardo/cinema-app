@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marti\\projects\\cinema-webapp\\cinema-app-be\\cinema-webapp.csproj",
+      "projectUniqueName": "D:\\GitHub\\cinema-app\\cinema-app-be\\cinema-webapp.csproj",
       "projectName": "cinema-webapp",
-      "projectPath": "C:\\Users\\marti\\projects\\cinema-webapp\\cinema-app-be\\cinema-webapp.csproj",
+      "projectPath": "D:\\GitHub\\cinema-app\\cinema-app-be\\cinema-webapp.csproj",
       "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marti\\projects\\cinema-webapp\\cinema-app-be\\obj\\",
+      "outputPath": "D:\\GitHub\\cinema-app\\cinema-app-be\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
