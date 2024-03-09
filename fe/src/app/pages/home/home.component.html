@@ -1,3 +1,9 @@
-<div class="conatiner">
-<span>Epa ya</span>
+<div class="container">
+  <div *ngFor="let item of uniqueObjects; let i = index">
+    <mat-card>
+      <mat-card-content>
+        <img [src]="item.portraitimages.path">
+      </mat-card-content>
+    </mat-card>
+  </div>
 </div>
